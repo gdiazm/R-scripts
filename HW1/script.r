@@ -1,6 +1,7 @@
 # Homework 1 Gonzalo Diaz
 # For each question I have created a csv file containing the answer, 
 # please find them attached.
+# JSON files are taken from http://times.cs.uiuc.edu/~wang296/Data/  
 
 library(rjson)
 
